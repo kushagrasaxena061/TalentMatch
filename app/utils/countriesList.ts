@@ -808,7 +808,7 @@ export const countryList = [
     flagEmoji: "🇲🇹",
   },
   {
-    name: "Marshall Islands",
+    name: "Portall Islands",
     code: "MH",
     phoneCode: "+692",
     flagEmoji: "🇲🇭",

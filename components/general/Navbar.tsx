@@ -23,9 +23,9 @@ export async function Navbar() {
   return (
     <nav className="flex justify-between items-center py-5">
       <Link href="/" className="flex items-center gap-2">
-        <Image src={Logo} alt="Job Marshal Logo" width={40} height={40} />
+        <Image src={Logo} alt="Job Portal Logo" width={40} height={40} />
         <h1 className="text-2xl font-bold">
-          Job<span className="text-primary">Marshal</span>
+          Job<span className="text-primary">Portal</span>
         </h1>
       </Link>
 
@@ -70,7 +70,7 @@ export async function Navbar() {
             <SheetContent>
               <SheetHeader className="text-left">
                 <SheetTitle>
-                  Job<span className="text-primary">Marshal</span>
+                  Job<span className="text-primary">Portal</span>
                 </SheetTitle>
                 <SheetDescription>
                   Find or post your next job opportunity
